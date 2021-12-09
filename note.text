@@ -1,12 +1,27 @@
+3-22
+
 1. variable
 
 2. Data Type
-    i.   Data type
-    ii.  Boolean
-    iii. string
-    iv.  null
+        Data type
+        number
+        Boolean
+        string
+        null
 
 3. Data Type Conversion
-    i.  data type Conversion
-    ii. String to number
+        data type Conversion
+        String to number
+        to string
+
+4. operator
+        arithmetic operator
+        assignment operator
+        bitwise operator
+        comparison operator
+        logical operator
+
+5. math
+6. date and time
+7. comment
 

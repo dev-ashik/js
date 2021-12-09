@@ -18,6 +18,5 @@ console.log(number1 % number2);
 
     // post Incremental
     var num2 = 8;
-    num2 = num2++
-    console.log(num2);
+    console.log(num2++);
     console.log(num2);

@@ -1,4 +1,4 @@
-4-1
+5-1
 code
     sum
     today
@@ -34,3 +34,13 @@ code
     while
     do while
 
+10. shape
+    shape triangle  1
+                    1 2
+                    1 2 3
+    shape triangle star *
+                        * *
+                        * * *
+11. break
+
+12. continue

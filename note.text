@@ -1,27 +1,36 @@
-3-25
-
+4-1
+code
+    sum
+    today
+    sum Of Even Numbers
+    even odd numbers
 1. variable
 
 2. Data Type
-        Data type
-        number
-        Boolean
-        string
-        null
+    Data type
+    number
+    Boolean
+    string
+    null
 
 3. Data Type Conversion
-        data type Conversion
-        String to number
-        to string
+    data type Conversion
+    String to number
+    to string
 
 4. operator
-        arithmetic operator
-        assignment operator
-        bitwise operator
-        comparison operator
-        logical operator
+    arithmetic operator
+    assignment operator
+    bitwise operator
+    comparison operator
+    logical operator
 
 5. math
 6. date and time
 7. comment
+8. ternary
+9. loop
+    for
+    while
+    do while
 

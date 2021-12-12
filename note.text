@@ -1,9 +1,11 @@
-5-1
+6-1
 code
     sum
     today
     sum Of Even Numbers
     even odd numbers
+    length of string
+
 1. variable
 
 2. Data Type
@@ -44,3 +46,7 @@ code
 11. break
 
 12. continue
+13. string
+    string1
+    string 2
+    string comparison

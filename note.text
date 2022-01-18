@@ -1,4 +1,4 @@
-6-1
+7-1
 code
     sum
     today
@@ -52,3 +52,15 @@ code
     string comparison
 
 14. array
+    array
+    arrayChangeValue
+    arrayDiclaration
+    arrayFunction
+    arrayLength
+    arrayReverse
+    copyArray
+    findData
+    getValues
+    insertDeleteValue
+    multiDimentionalArray
+    sum
